@@ -40,3 +40,4 @@ build/
 ### Мои исключения ###
 .idea/
 out/
+pom.xml
